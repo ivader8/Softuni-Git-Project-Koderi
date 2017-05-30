@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-Updating with bash...
-=======
-Update with Tortoise..
-Borislav
-Update with Tortoise
->>>>>>> 10e10b38d5af95543506fc7d03177cb76988fe80
+upgrade with turtoise
