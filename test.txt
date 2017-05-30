@@ -1,3 +1,2 @@
-upgrade with gitbash
 upgrade with turtoise
 
